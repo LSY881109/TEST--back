@@ -36,7 +36,7 @@ videos.forEach(video => {
     });
 });
 
-// 다크모드 토글
+// 다크 모드 토글
 const darkBtn = document.getElementById("toggleDarkMode");
 let isDark = false;
 
